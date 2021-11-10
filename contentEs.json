@@ -215,7 +215,7 @@
                                             "id": 69,
                                             "id_pill": 53,
                                             "slug": "historia-del-joropo",
-                                            "title": null,
+                                            "title": "Historia del Joropo",
                                             "type": "PHOTO",
                                             "online_url": null,
                                             "offline_url": null,
@@ -359,7 +359,7 @@
                                             "id": 77,
                                             "id_pill": 57,
                                             "slug": "joropo-larense",
-                                            "title": null,
+                                            "title": "Golperos del Tocuyo",
                                             "type": "VIDEO",
                                             "online_url": "media/archive/y2mate.com_-_GOLPEROS_DEL_TOCUYO_TAMUNANGUE_EN_LA_ESTANCIA_I_PARTE_480p.mp4",
                                             "offline_url": null,
@@ -442,6 +442,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "17",
                                         "question_type": "1",
                                         "question": "¿El joropo es un ritmo asociado a la región?",
                                         "audio": null,
@@ -502,6 +503,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "18",
                                         "question_type": "3",
                                         "question": "¿El joropo llego inicialmente a Colombia?",
                                         "audio": null,
@@ -1295,6 +1297,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "58",
                                         "question_type": "1",
                                         "question": "¿A mediados de que siglo se da a conocer El joropo?",
                                         "audio": null,
@@ -1355,6 +1358,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "61",
                                         "question_type": "3",
                                         "question": "¿El arpa llanera tiene entre 32 y 33 cuerdas?",
                                         "audio": null,
@@ -2204,6 +2208,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "110",
                                         "question_type": "1",
                                         "question": "¿Cuáles son los tipos de cantos de trabajo de llano?",
                                         "audio": null,
@@ -2250,6 +2255,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "112",
                                         "question_type": "3",
                                         "question": "El ganado sin dueño en las sabanas del llano se le llamaba criollo o casanareño.",
                                         "audio": null,
@@ -2721,6 +2727,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "143",
                                         "question_type": "1",
                                         "question": "¿El ingrediente principal del majule es?",
                                         "audio": null,
@@ -2781,6 +2788,7 @@
                                     "type": "4",
                                     "type_comic": "0",
                                     "question": {
+                                        "id": "145",
                                         "question_type": "3",
                                         "question": "La palabra gastronomía viene de la raíz gastros (estómago) y nomos (comida)",
                                         "audio": null,
