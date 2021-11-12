@@ -152,15 +152,15 @@
                                     "size": 90555
                                 },
                                 {
-                                    "title": null,
+                                    "title": "Origin stories of the Joropo",
                                     "content": "<p><strong>Roots:</strong></p>\r\n\r\n<p>The origin of the joropo is Spanish fandango and Arabic melismatic music (group of notes sung on the same syllable).</p>\r\n\r\n<p>According to the musicologist and researcher of Venezuelan and Caribbean music Rafael Salazar, &laquo;great students of musicology, such as Alejo Carpentier, consider that the fandango is a fecundatory black-African dance, originating from Guinea, which arrived in the Antilles from the dispersal of slaves forcibly brought to America for the harsh tasks of agriculture and mining. &#39;</p>\r\n\r\n<p>The fandango gained strength in the Iberian Peninsula thanks to the voyages of the conquerors, who took it from one place to another with its variants and Afro-American and peasant fusions.</p>\r\n\r\n<p>In 1640 the Council of Castile prohibited fandango and other dances, calling them &quot;amulatadas indianas&quot;. The joropo encloses in the fandango its Afro-American origin with small indigenous contributions. The first fandangos arrived in Caracas at the beginning of the seventeenth century, they were played in the evenings of the great cacaos in the capital&#39;s haciendas and were performed with instruments such as the bandurria, the instrument, the harpsichord and the bandola.</p>\r\n\r\n<p><strong>Etymology:</strong></p>\r\n\r\n<p>The word &quot;joropo&quot; comes from the Arabic &quot;xarop&quot; which means &quot;syrup&quot; and is related to the Mexican syrups from Guadalajara. There are those who say that the joropo is a Caribbean voice; likewise, there are people who maintain that it comes from Quechua.</p>",
                                     "slug": "slide-4",
                                     "type": "2",
                                     "type_comic": "0",
                                     "gallery": [
                                         {
-                                            "id": 67,
-                                            "id_pill": 51,
+                                            "id": "67",
+                                            "id_pill": "51",
                                             "slug": "origen-del-joropo",
                                             "title": "Origin of the joropo",
                                             "type": "VIDEO",
@@ -170,8 +170,8 @@
                                             "video_url": "https://www.youtube.com/watch?v=oA9sx952XzU"
                                         },
                                         {
-                                            "id": 66,
-                                            "id_pill": 51,
+                                            "id": "66",
+                                            "id_pill": "51",
                                             "slug": "origen-del-joropo",
                                             "title": "Origin of the joropo",
                                             "type": "PHOTO",
@@ -2331,6 +2331,18 @@
                                     "image": "contents/post_gallery/1.PARQUEBIENVENIDA_2.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/villanueva/tourVillanueva.json",
                                     "weight": 4432178
+                                },
+                                {
+                                    "id": 30,
+                                    "id_pill": "10",
+                                    "slug": "cabresteros",
+                                    "title": "winches",
+                                    "type": "VR",
+                                    "online_url": "contents/post_gallery/Cantos__cabresteros.mp4",
+                                    "offline_url": null,
+                                    "image": "contents/post_gallery/Screenshot_1_tSs3408.png",
+                                    "video_url": "https://www.youtube.com/watch?v=SoTUI0t99jE",
+                                    "weight": 153179511
                                 }
                             ],
                             "type": "gallery",
@@ -3265,7 +3277,7 @@
                                     "weight": 0
                                 }
                             ],
-                            "pill_size": 16826972
+                            "pill_size": 170006483
                         }
                     ]
                 },
