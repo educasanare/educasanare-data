@@ -159,8 +159,8 @@
                                     "type_comic": "0",
                                     "gallery": [
                                         {
-                                            "id": 67,
-                                            "id_pill": 51,
+                                            "id": "67",
+                                            "id_pill": "51",
                                             "slug": "origen-del-joropo",
                                             "title": "Origen del joropo",
                                             "type": "VIDEO",
@@ -170,8 +170,8 @@
                                             "video_url": "https://www.youtube.com/watch?v=oA9sx952XzU"
                                         },
                                         {
-                                            "id": 66,
-                                            "id_pill": 51,
+                                            "id": "66",
+                                            "id_pill": "51",
                                             "slug": "origen-del-joropo",
                                             "title": "Origen del joropo",
                                             "type": "PHOTO",
@@ -2331,6 +2331,18 @@
                                     "image": "contents/post_gallery/1.PARQUEBIENVENIDA_2.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/villanueva/tourVillanueva.json",
                                     "weight": 4432178
+                                },
+                                {
+                                    "id": 30,
+                                    "id_pill": "10",
+                                    "slug": "cabresteros",
+                                    "title": "Cabresteros",
+                                    "type": "VR",
+                                    "online_url": "contents/post_gallery/Cantos__cabresteros.mp4",
+                                    "offline_url": null,
+                                    "image": "contents/post_gallery/Screenshot_1_tSs3408.png",
+                                    "video_url": "https://www.youtube.com/watch?v=SoTUI0t99jE",
+                                    "weight": 153179511
                                 }
                             ],
                             "type": "gallery",
@@ -3265,7 +3277,7 @@
                                     "weight": 0
                                 }
                             ],
-                            "pill_size": 16826972
+                            "pill_size": 170006483
                         }
                     ]
                 },
