@@ -9,7 +9,7 @@
                     "title": "Llanera Culture",
                     "description": "",
                     "background_image": "contents/sections/background/tema1_W0qTKe3.png",
-                    "format_image": null,
+                    "format_image": "contents/sections/1.png",
                     "color": "#FFFFFF",
                     "slug": "cultura-llanera",
                     "component": "carrousel",
@@ -3285,7 +3285,7 @@
                     "title": "Intangible / tangible heritage",
                     "description": "",
                     "background_image": "contents/sections/background/tema2_1OfzYyj.png",
-                    "format_image": null,
+                    "format_image": "contents/sections/3.png",
                     "color": "#FFFFFF",
                     "slug": "patrimonio-inmaterial-material",
                     "component": "carrousel",
@@ -3358,7 +3358,7 @@
                     "title": "Local Entrepreneurship",
                     "description": "",
                     "background_image": "contents/sections/background/tema3_0zupcxc.png",
-                    "format_image": null,
+                    "format_image": "contents/sections/2.png",
                     "color": "#FFFFFF",
                     "slug": "emprendimiento-local",
                     "component": "carrousel",
@@ -3413,19 +3413,19 @@
                                     "type_comic": "0",
                                     "gallery": [
                                         {
-                                            "id": 141,
-                                            "id_pill": 121,
+                                            "id": "141",
+                                            "id_pill": "121",
                                             "slug": "imagen1",
-                                            "title": "imagen1",
-                                            "title_translation": "image1",
+                                            "title": "image 1",
                                             "type": "PHOTO",
                                             "online_url": null,
                                             "offline_url": null,
-                                            "image": "https://cms-cato.s3.amazonaws.com/media/media/archive/1_IV2hRBk.jpg",
+                                            "image": "media/archive/1_IV2hRBk.jpg",
                                             "video_url": null,
-                                            "weight": "104021"
+                                            "weight": 104021
                                         }
-                                    ]
+                                    ],
+                                    "size": 104021
                                 },
                                 {
                                     "title": null,
@@ -3668,7 +3668,7 @@
                                     ]
                                 }
                             ],
-                            "pill_size": 671508
+                            "pill_size": 775529
                         },
                         {
                             "title": "Capybara mama and the plains drought",
