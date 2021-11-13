@@ -1,0 +1,55 @@
+[
+    {
+        "page_metadata": {
+            "title": "About",
+            "description": "",
+            "slug": "acerca-de",
+            "sections": [
+                {
+                    "title": "about",
+                    "description": "<p>section 1</p>",
+                    "background_image": null,
+                    "format_image": null,
+                    "color": "#FFFFFF",
+                    "slug": "acerca-de",
+                    "component": null,
+                    "align": "RIGHT",
+                    "lines_to_show": "1",
+                    "title_visibility": true,
+                    "subtitle_visibility": false,
+                    "logo_visibility": "3",
+                    "tag_visibility": false,
+                    "description_visibility": false,
+                    "gallery_visibility": false,
+                    "posts": [
+                        {
+                            "title": "Version 1.0.0",
+                            "subtitle": null,
+                            "description": "<p>EduCasanare App is the official mobile application of the CTeI Capacity Building project for educational innovation in basic and secondary education, through the use of tics in official institutions of the Department of Casanare, an initiative of the Department of Casanare, the Miniciences, the General System of Royalties and an alliance of private organizations in the CTeI sector, which aims to generate learning environments with ICT mediation and a STEM + A approach to promote educational innovation.</p>\r\n\r\n<p>From here you will have access to virtual reality (VR) components for interactive self-learning on Orange themes such as Plains Culture, Intangible Heritage and local entrepreneurship, focused on basic primary, basic secondary and academic secondary education.</p>\r\n\r\n<p>If you want to know more about this educational initiative or have any questions or concerns, do not hesitate to visit our HELP, FORUM or CONTACT section so that you can connect with us at <a href=\"http://edu.casanare.gov.co\">edu.casanare.gov.co</a>.</p>",
+                            "external_url": null,
+                            "slug": "acerca-de",
+                            "image": null,
+                            "audio": null,
+                            "tags": [],
+                            "gallery": [
+                                {
+                                    "id": 32,
+                                    "id_pill": "18",
+                                    "slug": "patrocinadores",
+                                    "title": "logos",
+                                    "type": "PHOTO",
+                                    "online_url": null,
+                                    "offline_url": null,
+                                    "image": "contents/post_gallery/logos.png",
+                                    "video_url": null,
+                                    "weight": 47813
+                                }
+                            ],
+                            "pill_size": 47813
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
