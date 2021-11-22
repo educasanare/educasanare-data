@@ -11078,15 +11078,16 @@
                                             "id": "524",
                                             "id_pill": "298",
                                             "slug": "imagen2",
-                                            "title": null,
+                                            "title": "imagen 1",
                                             "type": "PHOTO",
                                             "online_url": null,
                                             "offline_url": null,
                                             "video_url": null,
-                                            "weight": 0
+                                            "image": "media/archive/0_ZchXYni.jpg",
+                                            "weight": 92933
                                         }
                                     ],
-                                    "size": 0
+                                    "size": 92933
                                 },
                                 {
                                     "title": null,
@@ -11319,7 +11320,7 @@
                                     "size": 206971
                                 }
                             ],
-                            "pill_size": 2045782
+                            "pill_size": 2138715
                         },
                         {
                             "title": "Ladrón robado, y su mundo acabado",
