@@ -1,3 +1,16 @@
+Django REST framework
+adminCATO 
+Api Root Page Language List
+
+Page Language List
+Todos los campos json de pagina de acuerdo a cada idioma
+
+GET /api/pagelanguage/?page=2&language=ES
+HTTP 200 OK
+Allow: GET
+Content-Type: application/json
+Vary: Accept
+
 [
     {
         "page_metadata": {
@@ -10244,7 +10257,7 @@
                             "description": "<p>Relata c&oacute;mo un obeso loro lleg&oacute; a esa condici&oacute;n debido al cuidado irresponsable de los seres humanos. Una contradictoria forma de conservar la especie, pues la deforestaci&oacute;n ha llevado a estas criaturas a reducir su n&uacute;mero.</p>",
                             "external_url": null,
                             "slug": "de-lo-que-hablamos-los-loros",
-                            "image": "contents/banners/animated_logos/port_ZGG2jYT.png",
+                            "image": "contents/banners/animated_logos/port_e48bX9m.png",
                             "audio": "contents/audio_post/000_GfuYK5G.mp3",
                             "tags": [],
                             "teacher": null,
@@ -10507,7 +10520,7 @@
                                     "size": 287276
                                 }
                             ],
-                            "pill_size": 1894180
+                            "pill_size": 1870056
                         },
                         {
                             "title": "En piel ajena",
