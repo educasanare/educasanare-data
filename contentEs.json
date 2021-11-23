@@ -5652,8 +5652,8 @@
                                     "option_image_2": "contents/questions/z3.jpg",
                                     "option_image_3": "contents/questions/z7.jpg",
                                     "option_image_4": null,
-                                    "option_image_5": "contents/questions/z6.jpg",
-                                    "option_image_6": "contents/questions/z5.jpg",
+                                    "option_image_5": null,
+                                    "option_image_6": null,
                                     "category_1": null,
                                     "category_2": null,
                                     "category_3": null,
@@ -5662,8 +5662,8 @@
                                     "category_6": null,
                                     "category_7": null,
                                     "category_8": null,
-                                    "slug_question": "prueba-tipo-9",
-                                    "weight": 53255
+                                    "slug_question": "prueba-tipo-7",
+                                    "weight": 34836
                                 },
                                 {
                                     "id": "176",
@@ -5852,7 +5852,7 @@
                                     "weight": 0
                                 }
                             ],
-                            "pill_size": 98984133
+                            "pill_size": 98965714
                         }
                     ]
                 },
