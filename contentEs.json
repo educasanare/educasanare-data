@@ -40,8 +40,8 @@
                                     "type": "VR",
                                     "online_url": "contents/post_gallery/Yopal.mp4",
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/Captura_de_pantalla_de_2021-10-27_11-05-29_xCzcfNG.png",
                                     "video_url": "https://www.youtube.com/watch?v=Wy7TOmDqP8I",
+                                    "image": "contents/post_gallery/Captura_de_pantalla_de_2021-10-27_11-05-29_xCzcfNG.png",
                                     "weight": 47521464
                                 },
                                 {
@@ -52,8 +52,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.PARQUEBIENVENIDA.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/aguazul/tourAguazul.json",
+                                    "image": "contents/post_gallery/1.PARQUEBIENVENIDA.jpg",
                                     "weight": 6318038
                                 },
                                 {
@@ -64,8 +64,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.RESERVABONAIRE.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/mani/tourMani.json",
+                                    "image": "contents/post_gallery/1.RESERVABONAIRE.jpg",
                                     "weight": 5529422
                                 }
                             ],
@@ -1000,8 +1000,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.PARQUEPRINCIPAL.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/monterrey/tourMonterrey.json",
+                                    "image": "contents/post_gallery/1.PARQUEPRINCIPAL.jpg",
                                     "weight": 3537750
                                 },
                                 {
@@ -1012,8 +1012,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.PARQUEPRINCIPAL_1.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/paz_de_ariporo/tourPazDeAriporo.json",
+                                    "image": "contents/post_gallery/1.PARQUEPRINCIPAL_1.jpg",
                                     "weight": 3494382
                                 }
                             ],
@@ -1855,8 +1855,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.PARQUEBIENVENIDA_1.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/tauramena/tourTauramena.json",
+                                    "image": "contents/post_gallery/1.PARQUEBIENVENIDA_1.jpg",
                                     "weight": 6119710
                                 },
                                 {
@@ -1867,8 +1867,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.PARQUEPRINCIPAL_2.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/pore/tourPore.json",
+                                    "image": "contents/post_gallery/1.PARQUEPRINCIPAL_2.jpg",
                                     "weight": 4913082
                                 }
                             ],
@@ -2752,8 +2752,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.RIOCRAVO.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/yopal/tourYopal.json",
+                                    "image": "contents/post_gallery/1.RIOCRAVO.jpg",
                                     "weight": 3516420
                                 },
                                 {
@@ -2764,8 +2764,8 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/1.PARQUEBIENVENIDA_2.jpg",
                                     "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/villanueva/tourVillanueva.json",
+                                    "image": "contents/post_gallery/1.PARQUEBIENVENIDA_2.jpg",
                                     "weight": 4432178
                                 },
                                 {
@@ -2776,8 +2776,8 @@
                                     "type": "VR",
                                     "online_url": "contents/post_gallery/Cantos__cabresteros.mp4",
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/Screenshot_1_tSs3408.png",
                                     "video_url": "https://www.youtube.com/watch?v=SoTUI0t99jE",
+                                    "image": "contents/post_gallery/Screenshot_1_tSs3408.png",
                                     "weight": 153179511
                                 }
                             ],
@@ -5555,12 +5555,13 @@
                                     "id": 29,
                                     "id_pill": "9",
                                     "slug": "video",
-                                    "title": null,
-                                    "type": "VIDEO",
+                                    "title": "Yopal prueba",
+                                    "type": "VR",
                                     "online_url": "contents/post_gallery/Capítulo_5__Soberanía_alimentaria_Sikuani.mp4",
                                     "offline_url": null,
-                                    "image": "contents/post_gallery/Captura_de_pantalla_de_2021-10-22_15-49-20.png",
-                                    "video_url": null
+                                    "video_url": null,
+                                    "image": "contents/post_gallery/WhatsApp_Image_2021-11-17_at_9.25.49_AM.jpeg",
+                                    "weight": 98776800
                                 }
                             ],
                             "teacher": null,
@@ -5574,35 +5575,23 @@
                                     "title": "idioma indice",
                                     "content": "<p>idioma</p>",
                                     "slug": "contenido-tematico",
-                                    "type": "2",
+                                    "type": "3",
                                     "type_comic": "0",
                                     "gallery": [
                                         {
-                                            "id": "471",
+                                            "id": "736",
                                             "id_pill": "88",
-                                            "slug": "imagen-2",
-                                            "title": "Bandola",
+                                            "slug": "imagen1",
+                                            "title": "dibujo",
                                             "type": "PHOTO",
                                             "online_url": null,
                                             "offline_url": null,
                                             "video_url": null,
-                                            "image": "media/archive/WhatsApp_Image_2021-11-17_at_9.25.49_AM.jpeg",
-                                            "weight": 172330
-                                        },
-                                        {
-                                            "id": "113",
-                                            "id_pill": "88",
-                                            "slug": "imagen-1",
-                                            "title": "prueba",
-                                            "type": "PHOTO",
-                                            "online_url": null,
-                                            "offline_url": null,
-                                            "video_url": null,
-                                            "image": null,
-                                            "weight": 0
+                                            "image": "media/archive/z2.jpg",
+                                            "weight": 9835
                                         }
                                     ],
-                                    "size": 172330
+                                    "size": 9835
                                 },
                                 {
                                     "title": "pregunta de prueba",
@@ -5647,13 +5636,13 @@
                             "questions_pill": [
                                 {
                                     "id": "181",
-                                    "question_type": "9",
+                                    "question_type": "7",
                                     "question": "seleccione el perro",
                                     "audio": null,
                                     "answer": "3|5",
-                                    "option_1": null,
-                                    "option_2": null,
-                                    "option_3": null,
+                                    "option_1": "cocodrilo",
+                                    "option_2": "chiguiro",
+                                    "option_3": "perro",
                                     "option_4": null,
                                     "option_5": null,
                                     "option_6": null,
@@ -5662,7 +5651,7 @@
                                     "option_image_1": "contents/questions/z1.jpg",
                                     "option_image_2": "contents/questions/z3.jpg",
                                     "option_image_3": "contents/questions/z7.jpg",
-                                    "option_image_4": "contents/questions/z4.jpg",
+                                    "option_image_4": null,
                                     "option_image_5": "contents/questions/z6.jpg",
                                     "option_image_6": "contents/questions/z5.jpg",
                                     "category_1": null,
@@ -5674,7 +5663,69 @@
                                     "category_7": null,
                                     "category_8": null,
                                     "slug_question": "prueba-tipo-9",
-                                    "weight": 67865
+                                    "weight": 53255
+                                },
+                                {
+                                    "id": "176",
+                                    "question_type": "5",
+                                    "question": "seleccione la opcion 3",
+                                    "audio": null,
+                                    "answer": "3",
+                                    "option_1": "opcion 1",
+                                    "option_2": "opcion 2",
+                                    "option_3": "opcion 3",
+                                    "option_4": null,
+                                    "option_5": null,
+                                    "option_6": null,
+                                    "false": "False",
+                                    "true": "True",
+                                    "option_image_1": null,
+                                    "option_image_2": null,
+                                    "option_image_3": null,
+                                    "option_image_4": null,
+                                    "option_image_5": null,
+                                    "option_image_6": null,
+                                    "category_1": null,
+                                    "category_2": null,
+                                    "category_3": null,
+                                    "category_4": null,
+                                    "category_5": null,
+                                    "category_6": null,
+                                    "category_7": null,
+                                    "category_8": null,
+                                    "slug_question": "prueba-tipo-2",
+                                    "weight": 0
+                                },
+                                {
+                                    "id": "177",
+                                    "question_type": "4",
+                                    "question": "la correcta es verdadero.",
+                                    "audio": null,
+                                    "answer": "2",
+                                    "option_1": "opcion 1",
+                                    "option_2": "opcion 2",
+                                    "option_3": "opcion 3",
+                                    "option_4": null,
+                                    "option_5": null,
+                                    "option_6": null,
+                                    "false": "False",
+                                    "true": "True",
+                                    "option_image_1": null,
+                                    "option_image_2": null,
+                                    "option_image_3": null,
+                                    "option_image_4": null,
+                                    "option_image_5": null,
+                                    "option_image_6": null,
+                                    "category_1": "categoría 1",
+                                    "category_2": "categoría 2",
+                                    "category_3": "categoría 3",
+                                    "category_4": null,
+                                    "category_5": null,
+                                    "category_6": null,
+                                    "category_7": null,
+                                    "category_8": null,
+                                    "slug_question": "prueba-tipo-3",
+                                    "weight": 0
                                 },
                                 {
                                     "id": "180",
@@ -5770,68 +5821,6 @@
                                     "weight": 0
                                 },
                                 {
-                                    "id": "177",
-                                    "question_type": "3",
-                                    "question": "la correcta es verdadero.",
-                                    "audio": null,
-                                    "answer": "2",
-                                    "option_1": null,
-                                    "option_2": null,
-                                    "option_3": null,
-                                    "option_4": null,
-                                    "option_5": null,
-                                    "option_6": null,
-                                    "false": "False",
-                                    "true": "True",
-                                    "option_image_1": null,
-                                    "option_image_2": null,
-                                    "option_image_3": null,
-                                    "option_image_4": null,
-                                    "option_image_5": null,
-                                    "option_image_6": null,
-                                    "category_1": null,
-                                    "category_2": null,
-                                    "category_3": null,
-                                    "category_4": null,
-                                    "category_5": null,
-                                    "category_6": null,
-                                    "category_7": null,
-                                    "category_8": null,
-                                    "slug_question": "prueba-tipo-3",
-                                    "weight": 0
-                                },
-                                {
-                                    "id": "176",
-                                    "question_type": "2",
-                                    "question": "seleccione la opcion 3",
-                                    "audio": null,
-                                    "answer": "3",
-                                    "option_1": "opcion 1",
-                                    "option_2": "opcion 2",
-                                    "option_3": "opcion 3",
-                                    "option_4": "opcion 4",
-                                    "option_5": null,
-                                    "option_6": null,
-                                    "false": "False",
-                                    "true": "True",
-                                    "option_image_1": null,
-                                    "option_image_2": null,
-                                    "option_image_3": null,
-                                    "option_image_4": null,
-                                    "option_image_5": null,
-                                    "option_image_6": null,
-                                    "category_1": null,
-                                    "category_2": null,
-                                    "category_3": null,
-                                    "category_4": null,
-                                    "category_5": null,
-                                    "category_6": null,
-                                    "category_7": null,
-                                    "category_8": null,
-                                    "slug_question": "prueba-tipo-2",
-                                    "weight": 0
-                                },
-                                {
                                     "id": "175",
                                     "question_type": "1",
                                     "question": "seleccione la opcion 2",
@@ -5863,7 +5852,7 @@
                                     "weight": 0
                                 }
                             ],
-                            "pill_size": 384438
+                            "pill_size": 98984133
                         }
                     ]
                 },
