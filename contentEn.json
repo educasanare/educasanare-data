@@ -52,7 +52,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/aguazul/tourAguazul.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/aguazul/tourAguazul.json",
                                     "image": "contents/post_gallery/1.PARQUEBIENVENIDA.jpg",
                                     "weight": 6318038
                                 },
@@ -64,7 +64,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/mani/tourMani.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/mani/tourMani.json",
                                     "image": "contents/post_gallery/1.RESERVABONAIRE.jpg",
                                     "weight": 5529422
                                 }
@@ -1000,7 +1000,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/monterrey/tourMonterrey.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/monterrey/tourMonterrey.json",
                                     "image": "contents/post_gallery/1.PARQUEPRINCIPAL.jpg",
                                     "weight": 3537750
                                 },
@@ -1012,7 +1012,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/paz_de_ariporo/tourPazDeAriporo.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/paz_de_ariporo/tourPazDeAriporo.json",
                                     "image": "contents/post_gallery/1.PARQUEPRINCIPAL_1.jpg",
                                     "weight": 3494382
                                 }
@@ -1855,7 +1855,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/tauramena/tourTauramena.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/tauramena/tourTauramena.json",
                                     "image": "contents/post_gallery/1.PARQUEBIENVENIDA_1.jpg",
                                     "weight": 6119710
                                 },
@@ -1867,7 +1867,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/pore/tourPore.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/pore/tourPore.json",
                                     "image": "contents/post_gallery/1.PARQUEPRINCIPAL_2.jpg",
                                     "weight": 4913082
                                 }
@@ -2752,7 +2752,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/yopal/tourYopal.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/yopal/tourYopal.json",
                                     "image": "contents/post_gallery/1.RIOCRAVO.jpg",
                                     "weight": 3516420
                                 },
@@ -2764,7 +2764,7 @@
                                     "type": "TOUR",
                                     "online_url": null,
                                     "offline_url": null,
-                                    "video_url": "https://catoback.s3.us-east-2.amazonaws.com/media/tours/villanueva/tourVillanueva.json",
+                                    "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/villanueva/tourVillanueva.json",
                                     "image": "contents/post_gallery/1.PARQUEBIENVENIDA_2.jpg",
                                     "weight": 4432178
                                 },
