@@ -28,6 +28,7 @@
                         "image": "contents/banners/animated_logos/image.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "15/10/2021 09:41",
                         "gallery": [{
                                 "id": 19,
                                 "id_pill": "5",
@@ -973,6 +974,7 @@
                         "image": "contents/banners/animated_logos/Bajistas_llaneros.jpeg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "15/10/2021 15:52",
                         "gallery": [{
                                 "id": 23,
                                 "id_pill": "6",
@@ -1817,6 +1819,7 @@
                         "image": "contents/banners/animated_logos/Basilio_Dominguez.jpeg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "17/11/2021 14:46",
                         "teacher": "contents/icon_post/2._Guía_Docente.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante.pdf",
                         "metadata": "contents/metadata/4._Metadatos_P20HSPt.pdf",
@@ -2536,6 +2539,7 @@
                         "image": "contents/banners/animated_logos/1.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "19/11/2021 15:02",
                         "teacher": "contents/icon_post/2._Guía_Docente_MpwcB66.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante_dudzLOl.pdf",
                         "metadata": "contents/metadata/4._Metadatos_fVJWgxV.pdf",
@@ -3921,6 +3925,7 @@
                         "image": "contents/banners/animated_logos/4.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "23/11/2021 15:31",
                         "teacher": "contents/icon_post/2._Guía_Docente_Bs3eVYj.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante_I62ClB8.pdf",
                         "metadata": "contents/metadata/4._Metadatos_mq2bcky.pdf",
@@ -4669,6 +4674,7 @@
                         "image": "contents/banners/animated_logos/3_7gFeqIs.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "24/11/2021 10:07",
                         "teacher": "contents/icon_post/2._Guía_Docente_LWvAGK7.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante_5uG2rMy.pdf",
                         "metadata": "contents/metadata/4._Metadatos_EboHBaq.pdf",
@@ -5476,6 +5482,7 @@
                         "image": "contents/banners/animated_logos/6.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "24/11/2021 17:33",
                         "teacher": "contents/icon_post/2._Guía_Docente_LkgLfc4.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante_yxygbPN.pdf",
                         "metadata": "contents/metadata/4._Metadatos_q4lFM3w.pdf",
@@ -6232,6 +6239,7 @@
                         "image": "contents/banners/animated_logos/image8.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "19/10/2021 10:05",
                         "gallery": [{
                                 "id": 25,
                                 "id_pill": "7",
@@ -7106,6 +7114,7 @@
                         "image": "contents/banners/animated_logos/imagen_pill9.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "21/10/2021 12:37",
                         "gallery": [{
                                 "id": 27,
                                 "id_pill": "10",
@@ -8051,6 +8060,7 @@
                         "image": "contents/banners/animated_logos/10.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "19/11/2021 09:38",
                         "teacher": "contents/icon_post/2._Guía_Docente_4hNRrzd.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante_e2ssFqV.pdf",
                         "metadata": "contents/metadata/4._Metadatos_Ate452E.pdf",
@@ -9066,7 +9076,7 @@
                                 "question_type": "1",
                                 "question": "According to the previously mentioned theme, \"They are traditional elements for plain work and cowherd work, obtained from cow or steer leather\" corresponds to the definition of",
                                 "audio": null,
-                                "answer": null,
+                                "answer": "2",
                                 "option_1": "Campechana",
                                 "option_2": "Rejoice",
                                 "option_3": "Quote",
@@ -9122,6 +9132,7 @@
                         "image": "contents/banners/animated_logos/6_qwpC50t.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "25/11/2021 14:49",
                         "teacher": "contents/icon_post/2._Guía_Docente_LEO3KFS.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante_WHAAkEL.pdf",
                         "metadata": "contents/metadata/4._Metadatos_IEyMuel.pdf",
@@ -10037,6 +10048,7 @@
                         "image": "contents/banners/animated_logos/3.jpg",
                         "audio": null,
                         "tags": [],
+                        "creation_date": "26/11/2021 08:49",
                         "teacher": "contents/icon_post/2._Guía_Docente_gsDxfAW.pdf",
                         "student": "contents/icon_post/3._Guía_Estudiante_nWI6Ur0.pdf",
                         "metadata": "contents/metadata/4._Metadatos_YR1IthS.pdf",
@@ -11531,12 +11543,13 @@
                         "image": "contents/banners/animated_logos/port.png",
                         "audio": "contents/audio_post/000.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "26/10/2021 12:24",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC1.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC1.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1.pdf",
                         "pill": [{
                                 "title": "The alligator toom",
                                 "content": "",
@@ -11783,7 +11796,7 @@
                                 "size": 167167
                             }
                         ],
-                        "pill_size": 1577547
+                        "pill_size": 3038743
                     },
                     {
                         "title": "Capybara mama and the plains drought",
@@ -11794,12 +11807,13 @@
                         "image": "contents/banners/animated_logos/port_X2W38np.png",
                         "audio": "contents/audio_post/000_C4L5vs9.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "28/10/2021 09:01",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC2.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC2.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC2.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -12046,7 +12060,7 @@
                                 "size": 243377
                             }
                         ],
-                        "pill_size": 2187597
+                        "pill_size": 3783118
                     },
                     {
                         "title": "Lola, the drama of a mother",
@@ -12057,12 +12071,13 @@
                         "image": "contents/banners/animated_logos/port_XlsaXqn.png",
                         "audio": "contents/audio_post/000_DIe7Cwt.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "28/10/2021 09:38",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC3.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC3.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_TTFeL6Z.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -12309,7 +12324,7 @@
                                 "size": 171086
                             }
                         ],
-                        "pill_size": 2156875
+                        "pill_size": 3644420
                     },
                     {
                         "title": "The aardvark super hero",
@@ -12320,12 +12335,13 @@
                         "image": "contents/banners/animated_logos/port_wY9nf8p.png",
                         "audio": "contents/audio_post/000_bD7PNwj.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "28/10/2021 11:27",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC4.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC4.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_uDWnz1s.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -12572,7 +12588,7 @@
                                 "size": 182772
                             }
                         ],
-                        "pill_size": 1891397
+                        "pill_size": 3352830
                     },
                     {
                         "title": "What are we mom?",
@@ -12583,12 +12599,13 @@
                         "image": "contents/banners/animated_logos/port_pvKtrwF.png",
                         "audio": "contents/audio_post/000_Mr8VAiK.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "28/10/2021 12:53",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC5.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC5.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_TVPSeIu.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -12835,7 +12852,7 @@
                                 "size": 186502
                             }
                         ],
-                        "pill_size": 1868362
+                        "pill_size": 3338854
                     },
                     {
                         "title": "Forest olympics",
@@ -12846,12 +12863,13 @@
                         "image": "contents/banners/animated_logos/port_xzK5DEX.png",
                         "audio": "contents/audio_post/000_Ao3oLda.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "28/10/2021 14:28",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC6.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC6.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_nBUfHoH.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -13098,7 +13116,7 @@
                                 "size": 247703
                             }
                         ],
-                        "pill_size": 2049643
+                        "pill_size": 3511531
                     },
                     {
                         "title": "Branches of the trade",
@@ -13109,12 +13127,13 @@
                         "image": "contents/banners/animated_logos/port_RRKuruc.png",
                         "audio": "contents/audio_post/000_dxeRP35.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "28/10/2021 15:02",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC7.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC7.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_ZW9oSZH.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -13361,7 +13380,7 @@
                                 "size": 229183
                             }
                         ],
-                        "pill_size": 1933741
+                        "pill_size": 3401254
                     },
                     {
                         "title": "Man stains",
@@ -13372,12 +13391,13 @@
                         "image": "contents/banners/animated_logos/port_CRFKd5p.png",
                         "audio": "contents/audio_post/000_vrRYn4M.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "15/11/2021 14:40",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC8.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC8.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_6H88a4A.pdf",
                         "pill": [{
                                 "title": "page 1",
                                 "content": "",
@@ -13624,7 +13644,7 @@
                                 "size": 248641
                             }
                         ],
-                        "pill_size": 2559379
+                        "pill_size": 4019770
                     },
                     {
                         "title": "Palmaritoland",
@@ -13635,12 +13655,13 @@
                         "image": "contents/banners/animated_logos/port_J1ISYj9.png",
                         "audio": "contents/audio_post/000_l7KEiJo.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "15/11/2021 15:36",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC9.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC9.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_xrZIoWQ.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -13887,7 +13908,7 @@
                                 "size": 395244
                             }
                         ],
-                        "pill_size": 2031884
+                        "pill_size": 3492609
                     },
                     {
                         "title": "Pedro la charapita",
@@ -13898,12 +13919,13 @@
                         "image": "contents/banners/animated_logos/port_Z6Ht3NJ.png",
                         "audio": "contents/audio_post/000_wszAZmC.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 10:38",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC10.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC10.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_A90E9EV.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -14150,7 +14172,7 @@
                                 "size": 155629
                             }
                         ],
-                        "pill_size": 1894306
+                        "pill_size": 3355940
                     },
                     {
                         "title": "No hunting, like at home",
@@ -14161,12 +14183,13 @@
                         "image": "contents/banners/animated_logos/port_1L0eaI6.png",
                         "audio": "contents/audio_post/000_KazSkha.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 11:23",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC11.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC11.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_ZRNduFS.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -14413,7 +14436,7 @@
                                 "size": 314844
                             }
                         ],
-                        "pill_size": 2629012
+                        "pill_size": 4089941
                     },
                     {
                         "title": "With life in tow",
@@ -14424,12 +14447,13 @@
                         "image": "contents/banners/animated_logos/port_6KmMNLB.png",
                         "audio": "contents/audio_post/000_5IFVIdx.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 11:51",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC12.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC12.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_pwb9Kr8.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -14676,7 +14700,7 @@
                                 "size": 482526
                             }
                         ],
-                        "pill_size": 2278043
+                        "pill_size": 3740178
                     },
                     {
                         "title": "Slow leak, quick conclusion",
@@ -14687,12 +14711,13 @@
                         "image": "contents/banners/animated_logos/port_KplFyWj.png",
                         "audio": "contents/audio_post/000_AKeSbhI.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 12:16",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC13.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC13.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_rXfb4IW.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -14939,7 +14964,7 @@
                                 "size": 401183
                             }
                         ],
-                        "pill_size": 2054928
+                        "pill_size": 3520066
                     },
                     {
                         "title": "Harmful protection",
@@ -14950,12 +14975,13 @@
                         "image": "contents/banners/animated_logos/port_b6pBXo9.png",
                         "audio": "contents/audio_post/000_M7dWHrp.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 12:39",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC14.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC14.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_7W7joqL.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -15202,7 +15228,7 @@
                                 "size": 276254
                             }
                         ],
-                        "pill_size": 1509595
+                        "pill_size": 2981684
                     },
                     {
                         "title": "Grandma Goose",
@@ -15213,12 +15239,13 @@
                         "image": "contents/banners/animated_logos/port_SkIOEmF.png",
                         "audio": "contents/audio_post/000_Y87zhCU.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 14:21",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC15.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC15.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_eha1sPH.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -15465,7 +15492,7 @@
                                 "size": 179602
                             }
                         ],
-                        "pill_size": 1233464
+                        "pill_size": 2710186
                     },
                     {
                         "title": "Free of flown",
@@ -15476,12 +15503,13 @@
                         "image": "contents/banners/animated_logos/port_ksg4Ckq.png",
                         "audio": "contents/audio_post/000_FhLG0kc.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 15:10",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC16.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC16.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_1kQl7vH.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -15728,7 +15756,7 @@
                                 "size": 370284
                             }
                         ],
-                        "pill_size": 2008398
+                        "pill_size": 3470542
                     },
                     {
                         "title": "What we parrots talk about",
@@ -15739,12 +15767,13 @@
                         "image": "contents/banners/animated_logos/port_e48bX9m.png",
                         "audio": "contents/audio_post/000_GfuYK5G.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "19/11/2021 15:35",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC17.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC17.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_60On037.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -15991,7 +16020,7 @@
                                 "size": 287276
                             }
                         ],
-                        "pill_size": 1870056
+                        "pill_size": 3332206
                     },
                     {
                         "title": "On someone else's skin",
@@ -16002,12 +16031,13 @@
                         "image": "contents/banners/animated_logos/port_7zjePwH.png",
                         "audio": "contents/audio_post/000_GSZLLG9.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "20/11/2021 17:33",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC18.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC18.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_La09KN1.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -16254,7 +16284,7 @@
                                 "size": 260982
                             }
                         ],
-                        "pill_size": 2221305
+                        "pill_size": 3681703
                     },
                     {
                         "title": "Teacher Pepperan",
@@ -16265,12 +16295,13 @@
                         "image": "contents/banners/animated_logos/port_C5CL47D.png",
                         "audio": "contents/audio_post/000_g427bBo.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 09:35",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC19.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC19.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_CKYH0zi.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -16517,7 +16548,7 @@
                                 "size": 258471
                             }
                         ],
-                        "pill_size": 2417255
+                        "pill_size": 3893478
                     },
                     {
                         "title": "Path of roses, glorious birds",
@@ -16528,12 +16559,13 @@
                         "image": "contents/banners/animated_logos/port_5SWH8YQ.png",
                         "audio": "contents/audio_post/000_eyV5sx5.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 10:13",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC20.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC20.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_RYGhCPR.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -16780,7 +16812,7 @@
                                 "size": 206971
                             }
                         ],
-                        "pill_size": 2138715
+                        "pill_size": 3612290
                     },
                     {
                         "title": "Robbed thief, and his world ended",
@@ -16791,12 +16823,13 @@
                         "image": "contents/banners/animated_logos/port_mWguPCX.png",
                         "audio": "contents/audio_post/000_koXjmNh.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 10:54",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC21.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC21.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_56gK693.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -17043,7 +17076,7 @@
                                 "size": 161023
                             }
                         ],
-                        "pill_size": 1783466
+                        "pill_size": 3244101
                     },
                     {
                         "title": "Until it's over",
@@ -17054,12 +17087,13 @@
                         "image": "contents/banners/animated_logos/port_4zIK4T6.png",
                         "audio": "contents/audio_post/000_Fg2S8ua.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 11:19",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC22.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC22.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_J4d09jY.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -17306,7 +17340,7 @@
                                 "size": 238737
                             }
                         ],
-                        "pill_size": 1989820
+                        "pill_size": 3457634
                     },
                     {
                         "title": "Red-hot celebration",
@@ -17317,12 +17351,13 @@
                         "image": "contents/banners/animated_logos/port_aXeE0Zh.png",
                         "audio": "contents/audio_post/000_F4I0lzs.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 11:40",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC23.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC23.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_mNaPvbB.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -17569,7 +17604,7 @@
                                 "size": 264174
                             }
                         ],
-                        "pill_size": 2295647
+                        "pill_size": 3768337
                     },
                     {
                         "title": "Before and after, here was a fish",
@@ -17580,12 +17615,13 @@
                         "image": "contents/banners/animated_logos/port_c6uaAqe.png",
                         "audio": "contents/audio_post/000_lOj1Vir.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 12:08",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC24.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC24.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_AQDAAnB.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -17832,7 +17868,7 @@
                                 "size": 210774
                             }
                         ],
-                        "pill_size": 2043560
+                        "pill_size": 3504684
                     },
                     {
                         "title": "Healthy prj mavera",
@@ -17843,12 +17879,13 @@
                         "image": "contents/banners/animated_logos/port_GScb6ao.png",
                         "audio": "contents/audio_post/000_NVWZg9r.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 12:35",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC25.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC25.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_7f8E94L.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -18095,7 +18132,7 @@
                                 "size": 197688
                             }
                         ],
-                        "pill_size": 1390221
+                        "pill_size": 2859149
                     },
                     {
                         "title": "Fruit of exploitation",
@@ -18106,12 +18143,13 @@
                         "image": "contents/banners/animated_logos/port_yAYYmSi.png",
                         "audio": "contents/audio_post/000_CCT5wMD.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 14:03",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC26.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC26.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_Yr1RZnr.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -18358,7 +18396,7 @@
                                 "size": 253828
                             }
                         ],
-                        "pill_size": 2466343
+                        "pill_size": 3936379
                     },
                     {
                         "title": "Oranges in the air",
@@ -18369,12 +18407,13 @@
                         "image": "contents/banners/animated_logos/port_5mBYRpM.png",
                         "audio": "contents/audio_post/000_2rtQwTi.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 14:32",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC27.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC27.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_UuHEeY5.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -18621,7 +18660,7 @@
                                 "size": 238816
                             }
                         ],
-                        "pill_size": 1916337
+                        "pill_size": 3379557
                     },
                     {
                         "title": "Wood in sunset",
@@ -18632,12 +18671,13 @@
                         "image": "contents/banners/animated_logos/port_nOB6vo9.png",
                         "audio": "contents/audio_post/000_YcGdPj7.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 14:56",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC28.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC28.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_Fdbv3bF.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -18884,7 +18924,7 @@
                                 "size": 356976
                             }
                         ],
-                        "pill_size": 2676147
+                        "pill_size": 4144210
                     },
                     {
                         "title": "Go up like palm ... and there it stays",
@@ -18895,12 +18935,13 @@
                         "image": "contents/banners/animated_logos/port_ghYRuZG.png",
                         "audio": "contents/audio_post/000_UiokJtv.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 15:26",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC29.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC29.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_jLVkx3P.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -19147,7 +19188,7 @@
                                 "size": 280064
                             }
                         ],
-                        "pill_size": 2947248
+                        "pill_size": 4408280
                     },
                     {
                         "title": "Craftiness? pure straw",
@@ -19158,12 +19199,13 @@
                         "image": "contents/banners/animated_logos/port_jPK6oBQ.png",
                         "audio": "contents/audio_post/000_F59OSLC.mp3",
                         "tags": [],
-                        "teacher": null,
+                        "creation_date": "22/11/2021 15:44",
+                        "teacher": "contents/icon_post/2._Manual_de_usuario_E-COMIC_EC30.pdf",
                         "student": null,
-                        "metadata": null,
+                        "metadata": "contents/metadata/1._Metadatos_E-COMIC_EC30.pdf",
                         "result": null,
                         "sources": null,
-                        "credit": null,
+                        "credit": "contents/credits/3._Creditos_E-COMIC_EC1_tGZAK03.pdf",
                         "pill": [{
                                 "title": null,
                                 "content": "",
@@ -19410,7 +19452,7 @@
                                 "size": 232643
                             }
                         ],
-                        "pill_size": 2519174
+                        "pill_size": 3986078
                     }
                 ]
             }
