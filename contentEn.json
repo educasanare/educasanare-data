@@ -29,18 +29,6 @@
                          "audio": null,
                          "tags": [],
                          "creation_date": "15/10/2021 09:41",
-                         "gallery": [{
-                             "id": 19,
-                             "id_pill": "5",
-                             "slug": "yopal",
-                             "title": "Yopal",
-                             "type": "VR",
-                             "online_url": "contents/post_gallery/Yopal.mp4",
-                             "offline_url": null,
-                             "video_url": "https://www.youtube.com/watch?v=Wy7TOmDqP8I",
-                             "image": "contents/post_gallery/Captura_de_pantalla_de_2021-10-27_11-05-29_xCzcfNG.png",
-                             "weight": 47521464
-                         }],
                          "teacher": "contents/icon_post/2._Guia_Docente.pdf",
                          "student": "contents/icon_post/3._Guia_Estudiante.pdf",
                          "metadata": "contents/metadata/4._Metadatos.pdf",
