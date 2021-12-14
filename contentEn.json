@@ -22,7 +22,7 @@
                  "posts": [{
                          "title": "Joropo history",
                          "subtitle": null,
-                         "description": "<p>In this capsule the term of Joropo, roots, etymology and origin are explained.</p>",
+                         "description": "<p style=\"text-align:justify\">In this capsule the term of Joropo, roots, etymology and origin are explained.</p>",
                          "external_url": null,
                          "slug": "historia-del-joropo",
                          "image": "contents/banners/animated_logos/image.jpg",
@@ -849,7 +849,7 @@
                                  "question": "According to the above seen, classify the images with their respective regional variant",
                                  "audio": null,
                                  "answer": null,
-                                 "option_1": "Joropo Central or Tuyero",
+                                 "option_1": "Joropo Tuyero",
                                  "option_2": "Oriental Joropo",
                                  "option_3": "Joropo Larense",
                                  "option_4": "Andean Joropo",
@@ -942,7 +942,7 @@
                      {
                          "title": "Musical Instruments",
                          "subtitle": null,
-                         "description": "<p>This Capsule explains the etymology and roots of the musical instruments of the llanera music.<br />\r\nllanera music.</p>",
+                         "description": "<p style=\"text-align:justify\">This Capsule explains the etymology and roots of the musical instruments of the llanera music llanera music.</p>",
                          "external_url": null,
                          "slug": "instrumentos-musicales",
                          "image": "contents/banners/animated_logos/Bajistas_llaneros.jpeg",
@@ -1773,7 +1773,7 @@
                      {
                          "title": "Antique Instruments",
                          "subtitle": null,
-                         "description": "<p>To know the etymology and roots of the old musical instruments of the llaneros.</p>",
+                         "description": "<p style=\"text-align:justify\">To know the etymology and roots of the old musical instruments of the llaneros.</p>",
                          "external_url": null,
                          "slug": "instrumentos-antiguos",
                          "image": "contents/banners/animated_logos/Basilio_Dominguez.jpeg",
@@ -2493,7 +2493,7 @@
                      {
                          "title": "Joropo Rhythms",
                          "subtitle": null,
-                         "description": "<p>Know and identify the rhythms of the Joropo.</p>",
+                         "description": "<p style=\"text-align:justify\">Know and identify the rhythms of the Joropo.</p>",
                          "external_url": null,
                          "slug": "ritmos-de-joropo",
                          "image": "contents/banners/animated_logos/1.jpg",
@@ -3879,7 +3879,7 @@
                      {
                          "title": "Joropo Dance",
                          "subtitle": null,
-                         "description": "<p>To know the styles of the joropo dance.</p>",
+                         "description": "<p style=\"text-align:justify\">To know the styles of the joropo dance.</p>",
                          "external_url": null,
                          "slug": "baile-del-joropo",
                          "image": "contents/banners/animated_logos/4.jpg",
@@ -4628,7 +4628,7 @@
                      {
                          "title": "Joropo dance costumes",
                          "subtitle": null,
-                         "description": "<p>To know the typical costumes of the joropo dance and their difference.</p>",
+                         "description": "<p style=\"text-align:justify\">To know the typical costumes of the joropo dance and their difference.</p>",
                          "external_url": null,
                          "slug": "trajes-baile-del-joropo",
                          "image": "contents/banners/animated_logos/3_7gFeqIs.jpg",
@@ -5436,7 +5436,7 @@
                      {
                          "title": "Llano's work routine",
                          "subtitle": null,
-                         "description": "<p>To know the origin and activities of plain work.</p>",
+                         "description": "<p style=\"text-align:justify\">To know the origin and activities of plain work.</p>",
                          "external_url": null,
                          "slug": "rutina-de-trabajo-de-llano",
                          "image": "contents/banners/animated_logos/6.jpg",
@@ -6231,7 +6231,7 @@
                      {
                          "title": "Plain work edges",
                          "subtitle": null,
-                         "description": "<p>This Capsule explains what plain work edges are, their variety and their history.</p>",
+                         "description": "<p style=\"text-align:justify\">This Capsule explains what plain work edges are, their variety and their history.</p>",
                          "external_url": null,
                          "slug": "cantos-de-trabajo-de-llano",
                          "image": "contents/banners/animated_logos/image8.jpg",
@@ -7106,51 +7106,13 @@
                      {
                          "title": "Llanera Traditional Cuisine",
                          "subtitle": null,
-                         "description": "<p>This capsule explains the term gastronomy, the history and the roots of traditional Llanera cuisine.</p>",
+                         "description": "<p style=\"text-align:justify\">This capsule explains the term gastronomy, the history and the roots of traditional Llanera cuisine.</p>",
                          "external_url": null,
                          "slug": "cocina-tradicional-llanera",
                          "image": "contents/banners/animated_logos/imagen_pill9.jpg",
                          "audio": null,
                          "tags": [],
                          "creation_date": "21/10/2021 12:37",
-                         "gallery": [{
-                                 "id": 27,
-                                 "id_pill": "10",
-                                 "slug": "tour-yopal",
-                                 "title": "Tour Yopal",
-                                 "type": "TOUR",
-                                 "online_url": null,
-                                 "offline_url": null,
-                                 "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/yopal/tourYopal.json",
-                                 "image": "contents/post_gallery/1.RIOCRAVO.jpg",
-                                 "weight": 3516420
-                             },
-                             {
-                                 "id": 28,
-                                 "id_pill": "10",
-                                 "slug": "tour-villanueva",
-                                 "title": "Tour Villanueva",
-                                 "type": "TOUR",
-                                 "online_url": null,
-                                 "offline_url": null,
-                                 "video_url": "https://cato-cms-bucket.s3.amazonaws.com/media/tours/villanueva/tourVillanueva.json",
-                                 "image": "contents/post_gallery/1.PARQUEBIENVENIDA_2.jpg",
-                                 "weight": 4432178
-                             },
-                             {
-                                 "id": 30,
-                                 "id_pill": "10",
-                                 "slug": "cabresteros",
-                                 "title": "winches",
-                                 "type": "VR",
-                                 "online_url": "contents/post_gallery/Cantos__cabresteros.mp4",
-                                 "offline_url": null,
-                                 "video_url": "https://www.youtube.com/watch?v=SoTUI0t99jE",
-                                 "image": "contents/post_gallery/Screenshot_1_tSs3408.png",
-                                 "weight": 153179511
-                             }
-                         ],
-                         "type": "gallery",
                          "teacher": "contents/icon_post/2._Guia_Docente_DXaNjrF.pdf",
                          "student": "contents/icon_post/3._Guia_Estudiante_AySkJ6P.pdf",
                          "metadata": "contents/metadata/4._Metadatos.pdf",
@@ -8047,12 +8009,12 @@
                                  "weight": 0
                              }
                          ],
-                         "pill_size": 170014777
+                         "pill_size": 8886668
                      },
                      {
                          "title": "Crafts, transformation of materials and llanera identity",
                          "subtitle": null,
-                         "description": "<p>To know the characteristics and importance of handicrafts in the region.</p>",
+                         "description": "<p style=\"text-align:justify\">To know the characteristics and importance of handicrafts in the region.</p>",
                          "external_url": null,
                          "slug": "oficios-transformacion-de-materiales-e-identidad",
                          "image": "contents/banners/animated_logos/10.jpg",
@@ -10868,7 +10830,7 @@
                      {
                          "title": "Animals / Fauna",
                          "subtitle": null,
-                         "description": "<p>To know the characteristics and importance of the Casanarean fauna.</p>",
+                         "description": "<p style=\"text-align:justify\">To know the characteristics and importance of the Casanarean fauna.</p>",
                          "external_url": null,
                          "slug": "animales-fauna",
                          "image": "contents/banners/animated_logos/3.jpg",
@@ -12339,7 +12301,7 @@
                      {
                          "title": "Historic Sites",
                          "subtitle": null,
-                         "description": "<p>To know and value the historical processes that took place in the department of Casanare.</p>",
+                         "description": "<p style=\"text-align:justify\">To know and value the historical processes that took place in the department of Casanare.</p>",
                          "external_url": null,
                          "slug": "lugares-historicos",
                          "image": "contents/banners/animated_logos/1_ywZQfId.jpg",
@@ -12374,12 +12336,13 @@
                                  "id": 52,
                                  "id_pill": "52",
                                  "slug": "iglesias",
-                                 "title": null,
+                                 "title": "Churches",
                                  "type": "VR",
                                  "online_url": "contents/post_gallery/Iglesias.mp4",
                                  "offline_url": null,
                                  "video_url": "https://www.youtube.com/watch?v=oThLpOw5M3A",
-                                 "weight": 188980246
+                                 "image": "contents/post_gallery/iglesias_SP77wi3.png",
+                                 "weight": 187048177
                              }
                          ],
                          "type": "gallery",
@@ -13263,12 +13226,12 @@
                                  "weight": 0
                              }
                          ],
-                         "pill_size": 465261702
+                         "pill_size": 463329633
                      },
                      {
                          "title": "Monumentos",
                          "subtitle": null,
-                         "description": "<p>To know the concepts of public art, tangible and intangible heritage as well as the importance of monuments and historical sites.</p>",
+                         "description": "<p style=\"text-align:justify\">To know the concepts of public art, tangible and intangible heritage as well as the importance of monuments and historical sites.</p>",
                          "external_url": null,
                          "slug": "monumentos",
                          "image": "contents/banners/animated_logos/20.jpg",
@@ -13291,12 +13254,13 @@
                                  "id": 49,
                                  "id_pill": "53",
                                  "slug": "monumentos",
-                                 "title": null,
+                                 "title": "Monuments",
                                  "type": "VR",
                                  "online_url": "contents/post_gallery/Capsula_15.mp4",
                                  "offline_url": null,
                                  "video_url": "https://www.youtube.com/watch?v=ofKZo_xckpI",
-                                 "weight": 189698984
+                                 "image": "contents/post_gallery/capsula15.png",
+                                 "weight": 189826165
                              },
                              {
                                  "id": 38,
@@ -14359,7 +14323,7 @@
                                  "weight": 0
                              }
                          ],
-                         "pill_size": 396510586
+                         "pill_size": 396637767
                      },
                      {
                          "title": "Cultural diversity",
@@ -15169,7 +15133,7 @@
                  "posts": [{
                          "title": "Organic pineapple venture",
                          "subtitle": null,
-                         "description": "<p>This Capsule explains what entrepreneurship is, its types, organic products and success stories in the region.</p>",
+                         "description": "<p style=\"text-align:justify\">This Capsule explains what entrepreneurship is, its types, organic products and success stories in the region.</p>",
                          "external_url": null,
                          "slug": "emprendimiento-de-pina-organica",
                          "image": "contents/banners/animated_logos/pilna.jpeg",
@@ -16790,7 +16754,7 @@
                          "credit": "contents/credits/5._Creditos_lJGwEhV.pdf",
                          "pill": [{
                                  "title": "CONTENTS",
-                                 "content": "<p style=\"text-align:justify\">&nbsp; &nbsp;<strong> 1.</strong> Tips for entrepreneurship.<br />\r\n&nbsp; &nbsp; <strong>2.</strong> Gender and entrepreneurship.<br />\r\n&nbsp; &nbsp; <strong>3.</strong> Female entrepreneurship in Colombia.<br />\r\n&nbsp; &nbsp; <strong>4.</strong> Female entrepreneurship in Casanare.</p>",
+                                 "content": "<p style=\"text-align:justify\"><strong>1.</strong> Tips for entrepreneurship.<br />\r\n<strong>2.</strong> Gender and entrepreneurship.<br />\r\n<strong>3.</strong> Female entrepreneurship in Colombia.<br />\r\n<strong>4.</strong> Female entrepreneurship in Casanare.</p>",
                                  "slug": "slide1",
                                  "type": "1",
                                  "type_comic": "0",
@@ -17368,68 +17332,6 @@
                                  "category_7": null,
                                  "category_8": null,
                                  "slug_question": "pregunta-10-post-19-en",
-                                 "weight": 0
-                             },
-                             {
-                                 "id": "572",
-                                 "question_type": "3",
-                                 "question": "Government entities consider it important to positively impact gender equity in the country to promote, finance and support entrepreneurship, formalization and strengthening of women's businesses in rural and urban areas.",
-                                 "audio": null,
-                                 "answer": "2",
-                                 "option_1": null,
-                                 "option_2": null,
-                                 "option_3": null,
-                                 "option_4": null,
-                                 "option_5": null,
-                                 "option_6": null,
-                                 "false": "False",
-                                 "true": "True",
-                                 "option_image_1": null,
-                                 "option_image_2": null,
-                                 "option_image_3": null,
-                                 "option_image_4": null,
-                                 "option_image_5": null,
-                                 "option_image_6": null,
-                                 "category_1": null,
-                                 "category_2": null,
-                                 "category_3": null,
-                                 "category_4": null,
-                                 "category_5": null,
-                                 "category_6": null,
-                                 "category_7": null,
-                                 "category_8": null,
-                                 "slug_question": "pregunta-11-post-19-en",
-                                 "weight": 0
-                             },
-                             {
-                                 "id": "574",
-                                 "question_type": "3",
-                                 "question": "A study conducted by MasterCard and Endeavor, between 2010 and 2020, highlights that at least 84% of the women surveyed agree to some degree that they face more difficulties than men in the process of entrepreneurship, 40% of them have been victims of some type of discrimination and 97% of the cases are due to gender issues.",
-                                 "audio": null,
-                                 "answer": "2",
-                                 "option_1": null,
-                                 "option_2": null,
-                                 "option_3": null,
-                                 "option_4": null,
-                                 "option_5": null,
-                                 "option_6": null,
-                                 "false": "False",
-                                 "true": "True",
-                                 "option_image_1": null,
-                                 "option_image_2": null,
-                                 "option_image_3": null,
-                                 "option_image_4": null,
-                                 "option_image_5": null,
-                                 "option_image_6": null,
-                                 "category_1": null,
-                                 "category_2": null,
-                                 "category_3": null,
-                                 "category_4": null,
-                                 "category_5": null,
-                                 "category_6": null,
-                                 "category_7": null,
-                                 "category_8": null,
-                                 "slug_question": "pregunta-11-post-19-en",
                                  "weight": 0
                              },
                              {
@@ -24887,11 +24789,11 @@
                          "pill_size": 3504684
                      },
                      {
-                         "title": "Healthy prj mavera",
+                         "title": "Healthy spring",
                          "subtitle": null,
                          "description": "<p>On this occasion we will be guided by animals that interact with plants. Cayenne is a plant whose flower serves multiple health benefits.</p>",
                          "external_url": null,
-                         "slug": "prj-mavera-saludable",
+                         "slug": "primavera-saludable",
                          "image": "contents/banners/animated_logos/port_GScb6ao.png",
                          "audio": "contents/audio_post/000_NVWZg9r.mp3",
                          "tags": [],
